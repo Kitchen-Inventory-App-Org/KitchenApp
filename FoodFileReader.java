@@ -37,7 +37,7 @@ public class FoodFileReader {
          */
         System.out.println("What ingredient would you like to use?");
         Scanner getFood = new Scanner(System.in);
-        String userInput = getRecipe.nextLine();
+        String userInput = getFood.nextLine();
         getRecipe(userInput);
     }
 }
