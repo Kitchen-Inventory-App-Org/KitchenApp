@@ -1,0 +1,10 @@
+Spaghetti Bolognese: Ground Beef, Tomato Sauce, Onion, Garlic, Olive Oil, Tomato Paste, Carrots, Celery, Beef Broth, and Spaghetti Noodles
+Caesar Salad: Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Olive Oil, Lemon Juice, Worcestershire Sauce, Anchovy Fillets, Dijon Mustard, and Garlic
+Chicken Stir-Fry: Chicken, Bell Peppers, Broccoli, Soy Sauce, Ginger, Garlic, Onion, Olive Oil, Rice, and Corn Starch
+Caprese Salad: Tomatoes, Mozzarella Cheese, Basil, Heavy Cream, Olive Oil, and Balsamic Vinegar
+Chicken Alfredo Pasta: Chicken, Fettuccine Pasta, Heavy Cream, Parmesan Cheese, Garlic, Butter, and Olive Oil
+Vegetable Stir-Fry: Bell Peppers, Broccoli, Carrots, Snap Peas, Soy Sauce, Ginger, Garlic, Onion, Olive Oil, Rice, and Corn Starch
+Beef Tacos: Beef, Cheese, Lettuce, Tomato, Salsa, and Tortillas
+Margherita Pizza: Pizza Dough, Mozzarella Cheese, Tomatoes, Basil, and Olive Oil
+Shrimp Scampi: Shrimp, Linguine Pasta, Garlic, Olive Oil, Lemon Juice, White Wine, Parsley, and Butter
+Hamburger: Beef, Cheese, Lettuce, Tomato, Hamburger Buns, Ketchup, Mustard, Mayonnaise, and Pickles
