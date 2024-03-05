@@ -14,7 +14,7 @@
   - Copy the code URL (https://github.com/Kitchen-Inventory-App-Org/Demo.git) 
 * Then, proceed to the command line 
 * Create a new folder  
-* `cd "new folder name"` 
+  - `cd "new folder name"` 
 * Copy the following command 
   - `git clone https://github.com/Kitchen-Inventory-App-Org/Demo.git`
 * Go to vs code and open the new folder 
